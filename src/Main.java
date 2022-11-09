@@ -14,10 +14,10 @@ public class Main extends Matrix{
         String question = mainScanner.next();
 
         if (question.contains("д") || question.contains("y")) {
-                    print(matrix.outMatrix);
+            print(matrix.outMatrix);
 
         } else if (question.contains("н") || question.contains("n")) {
-                    System.out.println("Fuck u asshole!");
+            System.out.println("Fuck u asshole!");
 
         }
     }

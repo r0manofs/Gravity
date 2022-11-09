@@ -1,6 +1,6 @@
 public abstract class Matrix {
-    final static int x = 10;
-    final static int y = 40;
+    final static int x = 6;
+    final static int y = 2;
 
     public static void print(int[][] matrix) {
 

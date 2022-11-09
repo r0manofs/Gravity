@@ -37,7 +37,7 @@ public class MatrixIn extends Matrix {
                     }
                 }
             }
-        }//переход к следующему столбцу
+        }                                                   //переход к следующему столбцу
         return gravityMatrix;
     }
 }

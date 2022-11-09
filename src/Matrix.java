@@ -1,4 +1,4 @@
-public abstract class Matrix {
+public class Matrix {
     final static int x = 6;
     final static int y = 2;
 
